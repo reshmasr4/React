@@ -1,4 +1,5 @@
 # TODO App
+![image](https://github.com/user-attachments/assets/0d2bd1a1-192a-456f-b200-9baada395dc2)
 
 A simple React-based TODO application that allows users to manage their tasks efficiently. The app provides functionalities to add and delete TODO items.
 
